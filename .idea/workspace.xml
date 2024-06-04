@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="041fb898-d2ab-43a7-9584-b9cea5b865a4" name="Changes" comment="remove idea">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/venv/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,6 +86,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "git-widget-placeholder": "HM",
     "last_opened_file_path": "C:/Users/Andrey/PycharmProjects/Home_work/first_game.py",
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
