@@ -105,3 +105,4 @@ while len(global_questions) != 0:
     global_questions.pop(0)
     if len(global_questions) == 0:
         print(f'Игра окончена. Вы выйграли {bank} р.')
+# проверка
