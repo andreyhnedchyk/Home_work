@@ -7,3 +7,5 @@
 	venv/1.py,b\b\bb564f4fa9a21a9976b656b610350a5ea26b86fd
 9
 	venv/2.py,0\2\025ea6218ff1a8397c0bbc4aeeb6099a51849ac3
+?
+venv/pyvenv.cfg,b\0\b0e04816a9971064291cd324e57037faa4a05306
