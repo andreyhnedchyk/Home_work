@@ -1,0 +1,56 @@
+Index: venv/.gitignore
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+># created by virtualenv automatically\r\n.idea/
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/venv/.gitignore b/venv/.gitignore
+--- a/venv/.gitignore	
++++ b/venv/.gitignore	
+@@ -1,2 +1,2 @@
+ # created by virtualenv automatically
+-.idea/
+\ No newline at end of file
++**.idea/
+\ No newline at end of file
+Index: .idea/sonarlint/issuestore/index.pb
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>\n?\n\u000Fvenv/.gitignore\u0012,e\\3\\e3477dd90bdeb5404622dde9262d38a1e7d946c5\nB\n\u0012Andrei Hnedchik.py\u0012,f\\0\\f0cd07fa4c9bfca6ff739dbf2dadcb23187c317d\n<\n\fBMII_file.py\u0012,c\\a\\ca592dfe9f9803827c4e57bc6cf20f2abe5ef8ee\n=\n\rfirst_game.py\u0012,1\\c\\1cb180d52c77addf04a4eb11578991f0c143d8da\n1\n\u00011\u0012,3\\5\\356a192b7913b04c54574d18c28d46e6395428ab
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/sonarlint/issuestore/index.pb b/.idea/sonarlint/issuestore/index.pb
+--- a/.idea/sonarlint/issuestore/index.pb	
++++ b/.idea/sonarlint/issuestore/index.pb	
+@@ -7,6 +7,4 @@
+ BMII_file.py,c\a\ca592dfe9f9803827c4e57bc6cf20f2abe5ef8ee
+ =
+ 
+-first_game.py,1\c\1cb180d52c77addf04a4eb11578991f0c143d8da
+-1
+-1,3\5\356a192b7913b04c54574d18c28d46e6395428ab
+\ No newline at end of file
++first_game.py,1\c\1cb180d52c77addf04a4eb11578991f0c143d8da
+\ No newline at end of file
+Index: .idea/sonarlint/securityhotspotstore/index.pb
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>\n?\n\u000Fvenv/.gitignore\u0012,e\\3\\e3477dd90bdeb5404622dde9262d38a1e7d946c5\nB\n\u0012Andrei Hnedchik.py\u0012,f\\0\\f0cd07fa4c9bfca6ff739dbf2dadcb23187c317d\n<\n\fBMII_file.py\u0012,c\\a\\ca592dfe9f9803827c4e57bc6cf20f2abe5ef8ee\n=\n\rfirst_game.py\u0012,1\\c\\1cb180d52c77addf04a4eb11578991f0c143d8da\n1\n\u00011\u0012,3\\5\\356a192b7913b04c54574d18c28d46e6395428ab
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/sonarlint/securityhotspotstore/index.pb b/.idea/sonarlint/securityhotspotstore/index.pb
+--- a/.idea/sonarlint/securityhotspotstore/index.pb	
++++ b/.idea/sonarlint/securityhotspotstore/index.pb	
+@@ -7,6 +7,4 @@
+ BMII_file.py,c\a\ca592dfe9f9803827c4e57bc6cf20f2abe5ef8ee
+ =
+ 
+-first_game.py,1\c\1cb180d52c77addf04a4eb11578991f0c143d8da
+-1
+-1,3\5\356a192b7913b04c54574d18c28d46e6395428ab
+\ No newline at end of file
++first_game.py,1\c\1cb180d52c77addf04a4eb11578991f0c143d8da
+\ No newline at end of file

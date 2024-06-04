@@ -65,16 +65,14 @@ def game_answ(answ):
         time.sleep(1)
         answ = input('Окончательный ответ==> ')
 
-    for count in global_questions[0].get('answers'):
-        if answ == true_answer:
-            print('Правильно')
-            summ = 100 * count_question
-            bank += summ
-            print(f'Вы выйграли {summ} р.')
-            check_win = 1
-            time.sleep(1)
-            clear()
-            break
+    if answ == true_answer:
+        print('Правильно')
+        summ = 100 * count_question
+        bank += summ
+        print(f'Вы выйграли {summ} р.')
+        check_win = 1
+        time.sleep(1)
+        clear()
 
     if check_win == 0:
         print(lose_case[0])
