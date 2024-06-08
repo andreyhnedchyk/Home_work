@@ -3,3 +3,5 @@
 coin.py,e\0\e057e6e9d7ff123a872fc8bad8243444337cf251
 6
 BMI.py,e\c\ec071074abf9f63aca915124662894cd9e4e56e1
+?
+venv/.gitignore,e\3\e3477dd90bdeb5404622dde9262d38a1e7d946c5
