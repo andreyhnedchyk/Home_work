@@ -12,6 +12,3 @@ def Time(value, count):
         return numbers[datetime.now().strftime("%M")[count]]
     if value == 'S':
         return numbers[datetime.now().strftime("%S")[count]]
-
-def Time_sleep():
-    return time.sleep(0.3)

@@ -74,8 +74,8 @@ numbers = {
     [cube * 8],
     [cube * 2, 7 * ' ', cube * 2],
     [cube * 2, 7 * ' ', cube * 2],
-    [8 * ' ', cube * 2],
-    [3 * ' ', cube * 2],
+    [cube * 8],
+    [cube * 8],
     [cube * 2, 7 * ' ', cube * 2],
     [cube * 2, 7 * ' ', cube * 2],
     [cube * 8],
@@ -107,9 +107,7 @@ def points(i, q):
     global Point, pol
     if i == q or q == i + 1 and i <= 6:
         return cube
-    elif (q == pol)and i >= 7:
-        pol -= 1
-        print(pol)
-        return cube
+    # elif i ==  and i >= 7:
+    #     return cube
     else:
         return ' '
