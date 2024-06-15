@@ -1,12 +1,0 @@
-
-7
-coin.py,e\0\e057e6e9d7ff123a872fc8bad8243444337cf251
-6
-BMI.py,e\c\ec071074abf9f63aca915124662894cd9e4e56e1
-?
-venv/.gitignore,e\3\e3477dd90bdeb5404622dde9262d38a1e7d946c5
-:
-
-.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
-=
-first_game.py,1\c\1cb180d52c77addf04a4eb11578991f0c143d8da
