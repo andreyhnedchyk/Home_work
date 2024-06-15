@@ -8,7 +8,5 @@
 :
 
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
-7
-Time.py,9\8\980818f9fe771a3f514bf643a771cdf3e3cc102c
 =
 first_game.py,1\c\1cb180d52c77addf04a4eb11578991f0c143d8da
