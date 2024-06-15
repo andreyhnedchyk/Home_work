@@ -1,10 +1,10 @@
 cube = '\u2B1B'
 numbers = {
     '1': [
-    [10 * ' ',cube * 3],
-    [8 * ' ',cube * 4],
-    [12 * ' ', cube*2],
-    [12 * ' ', cube*2],
+    [10 * ' ', cube * 3],
+    [8 * ' ', cube * 4],
+    [12 * ' ', cube * 2],
+    [12 * ' ', cube * 2],
     [12 * ' ', cube * 2],
     [12 * ' ', cube * 2],
     [12 * ' ', cube * 2],
@@ -14,8 +14,8 @@ numbers = {
     [4 * ' ', cube * 4, 3 * ' '],
     [cube * 2, 7 * ' ', cube * 2],
     [cube * 2, 7 * ' ', cube * 2],
-    [10 * ' ', cube, 3 * ' '],
-    [4 * ' ', cube * 2, 7 * ' '],
+    [10 * ' ', cube, 2 * ' '],
+    [4 * ' ', cube * 2, 6 * ' '],
     [cube * 2, 7 * ' ', cube * 2],
     [cube * 8],
     [cube * 8],
@@ -23,9 +23,9 @@ numbers = {
     '3': [
     [cube * 8],
     [cube * 2, 7 * ' ', cube * 2],
-    [12 * ' ', cube * 2],
-    [5 * ' ', cube * 5],
-    [5 * ' ', cube * 5],
+    [13 * ' ', cube * 2],
+    [7 * ' ', cube * 5],
+    [7 * ' ', cube * 5],
     [12 * ' ', cube * 2],
     [cube * 2, 7 * ' ', cube * 2],
     [cube * 8],
@@ -103,9 +103,9 @@ numbers = {
 }
 
 
-
 def points(i, q):
     if i == q or q == i + 1 and i <= 6:
         return cube
+
     else:
         return '  '
