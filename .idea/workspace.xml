@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="041fb898-d2ab-43a7-9584-b9cea5b865a4" name="Changes" comment="remove idea" />
+    <list default="true" id="041fb898-d2ab-43a7-9584-b9cea5b865a4" name="Changes" comment="remove idea">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/0/e057e6e9d7ff123a872fc8bad8243444337cf251" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -80,7 +84,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "SONARLINT_PRECOMMIT_ANALYSIS": "true",
-    "git-widget-placeholder": "HM",
+    "git-widget-placeholder": "Merging HM",
     "last_opened_file_path": "C:/Users/Andrey/PycharmProjects/Home_work/first_game.py",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   },
@@ -192,7 +196,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="time_app" />
+                        <option value="HM" />
                       </list>
                     </value>
                   </entry>
