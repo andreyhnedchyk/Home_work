@@ -101,13 +101,11 @@ numbers = {
     [cube * 8],
     ],
 }
-Point = 2
-pol = 6
+
+
+
 def points(i, q):
-    global Point, pol
     if i == q or q == i + 1 and i <= 6:
         return cube
-    # elif i ==  and i >= 7:
-    #     return cube
     else:
-        return ' '
+        return '  '
